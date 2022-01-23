@@ -1,0 +1,3 @@
+Cocoonのバージョンが古すぎます。必ず<a href="update-core.php">最新版に自動アップデート</a>してください。自動アップデート方法は<a href="https://wp-cocoon.com/automatic-update/" target="_blank">こちら</a>。
+Cocoonの「低サイズ版」はインストールしてすぐに<a href="update-core.php">最新版に自動アップデート</a>をする必要があります。自動アップデート方法は<a href="https://wp-cocoon.com/automatic-update/" target="_blank">こちら</a>。
+古いバージョンのCocoonを利用しているとセキュリティー的な問題が起こる可能性があります。すぐに<a href="update-core.php">最新版に自動アップデート</a>をする必要があります。自動アップデート方法は<a href="https://wp-cocoon.com/automatic-update/" target="_blank">こちら</a>。
